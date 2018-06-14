@@ -1,0 +1,23 @@
+{
+  "name": "angular_on_rails",
+  "description": "Working with AngularJS on Rails5",
+  "main": "index.html",
+  "authors": [
+    "Ida Ayu Putu Ari C."
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.2",
+    "angular-resource": "^1.7.2",
+    "bootstrap": "^4.1.1"
+  }
+}
